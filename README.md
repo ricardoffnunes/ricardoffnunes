@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ricardoffnunes
-- 👀 I’m interested in DevOps, a field in which I have been professionaly engaged for over a year
-- 🌱 I’m currently expanding my knowledge in Cloud Computing (mainly AWS), CI/CD (Jenkins) and containerization tools (Docker and Kubernetes)
-- 📫 How to reach me: ricardoffnunes@gmail.com
+- 👋 Hi, I’m Ricardo, also known as Vyreduke in Runescape
+- 👑 Jagex Build Engineer @ Jagex
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ricardo-filipe-ferreira-nunes/)
 
 <!---
 ricardoffnunes/ricardoffnunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
