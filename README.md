@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ricardo, also known as Mod Vyreduke in Jagex products
+- 👋 Hi, I’m Ricardo
 - 👑 Build and Release Engineer @ Jagex
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ricardo-filipe-ferreira-nunes/)
 
