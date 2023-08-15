@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ricardo
+- 💻 Senior DevOps Engineer
 - 👑 Build and Release Engineer @ Jagex
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ricardo-filipe-ferreira-nunes/)
 
