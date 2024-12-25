@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Ricardo
-- 💻 Senior DevOps Engineer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ricardo-filipe-ferreira-nunes/)
 
 <!---
